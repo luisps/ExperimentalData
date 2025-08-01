@@ -1,0 +1,18 @@
+../build/x86/apps/Feynman_SP /a BD_MIS_V /p /home/psantos/Agregacao/ExperimentalData/circuits/RND8 /f RND8 /i 0 /o 0 /s 26 /t 64 /l 5 /r *0.04419417 +0.10669417
+Number of samples = 2^26 = 67108864
+Number of threads = 64
+Run label: 5
+True amplitude = -4.419417e-02 + j 1.066942e-01
+Circuit path = /home/psantos/Agregacao/ExperimentalData/circuits/RND8/RND8.data
+
+myReal -> float!!!
+CState -> unsigned long long!!!
+algorithm -> BD_MIS_V
+Whoever I am , I am processing 67108864 with 64 threads!
+< 0 | U | 0 > = -4.42596823e-02 + i 1.06737494e-01 
+var: 4.29194724e-09 + i 1.87706650e-09 
+relative var: 2.19747722e-06 + i 1.64891517e-07 
+Total samples: 67108864
+Total evaluated paths: 603979776
+Non zero paths: 24380566
+T = 781.7 ms

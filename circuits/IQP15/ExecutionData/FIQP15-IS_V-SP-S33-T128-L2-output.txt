@@ -1,0 +1,17 @@
+../build/x86/apps/Feynman_SP /a IS_V /p /home/psantos/Agregacao/ExperimentalData/circuits/IQP15 /f IQP15 /i 0 /o 0 /s 33 /t 128 /l 2 /r *0.00128171 *0.00008649
+Number of samples = 2^33 = 8589934592
+Number of threads = 128
+Run label: 2
+True amplitude = -1.281710e-03 + j -8.649000e-05
+Circuit path = /home/psantos/Agregacao/ExperimentalData/circuits/IQP15/IQP15.data
+
+myReal -> float!!!
+CState -> unsigned long long!!!
+algorithm -> IS_V
+< 0 | U | 0 > = -1.54660014e-03 + i -1.07072690e-03 
+var: 7.01667844e-08 + i 9.68722361e-07 
+relative var: 4.27122116e-02 + i 1.29499344e+02 
+Total samples: 8589934592
+Total evaluated paths: 8589934592
+Non zero paths: 1049696
+T = 0d:0h:5m52.6s 

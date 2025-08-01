@@ -1,0 +1,17 @@
+../build/x86/apps/Feynman_SP /a IS_V /p /home/psantos/Agregacao/ExperimentalData/circuits/RND8 /f RND8 /i 0 /o 0 /s 26 /t 64 /l 3 /r *0.04419417 +0.10669417
+Number of samples = 2^26 = 67108864
+Number of threads = 64
+Run label: 3
+True amplitude = -4.419417e-02 + j 1.066942e-01
+Circuit path = /home/psantos/Agregacao/ExperimentalData/circuits/RND8/RND8.data
+
+myReal -> float!!!
+CState -> unsigned long long!!!
+algorithm -> IS_V
+< 0 | U | 0 > = -4.42636535e-02 + i 1.06598727e-01 
+var: 4.82804197e-09 + i 9.10916320e-09 
+relative var: 2.47195817e-06 + i 8.00197427e-07 
+Total samples: 67108864
+Total evaluated paths: 67108864
+Non zero paths: 1047922
+T = 325.6 ms
