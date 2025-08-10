@@ -1,0 +1,18 @@
+../build/x86/apps/Feynman_SP /a BD_MIS_V /p /home/psantos/Agregacao/ExperimentalData/circuits/IQP5 /f IQP5 /i 0 /o 0 /s 25 /t 128 /l 1 /r *0.104462 +0.106694
+Number of samples = 2^25 = 33554432
+Number of threads = 128
+Run label: 1
+True amplitude = -1.044620e-01 + j 1.066940e-01
+Circuit path = /home/psantos/Agregacao/ExperimentalData/circuits/IQP5/IQP5.data
+
+myReal -> float!!!
+CState -> unsigned long long!!!
+algorithm -> BD_MIS_V
+Whoever I am , I am processing 33554432 with 128 threads!
+< 0 | U | 0 > = -1.04326196e-01 + i 1.06521539e-01 
+var: 1.84421101e-08 + i 2.97419653e-08 
+relative var: 1.69002817e-06 + i 2.61270065e-06 
+Total samples: 33554432
+Total evaluated paths: 570425344
+Non zero paths: 56631320
+T = 610.4 ms

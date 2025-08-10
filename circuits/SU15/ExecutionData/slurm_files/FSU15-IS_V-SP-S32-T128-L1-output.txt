@@ -1,0 +1,17 @@
+../build/x86/apps/Feynman_SP /a IS_V /p /home/psantos/Agregacao/ExperimentalData/circuits/SU15 /f SU15 /i 0 /o 0 /s 32 /t 128 /l 1 /r +0.00364578 +0.00060584
+Number of samples = 2^32 = 4294967296
+Number of threads = 128
+Run label: 1
+True amplitude = 3.645780e-03 + j 6.058400e-04
+Circuit path = /home/psantos/Agregacao/ExperimentalData/circuits/SU15/SU15.data
+
+myReal -> float!!!
+CState -> unsigned long long!!!
+algorithm -> IS_V
+< 0 | U | 0 > = 4.07635933e-03 + i 8.48639873e-04 
+var: 1.85398534e-07 + i 5.89517768e-08 
+relative var: 1.39484303e-02 + i 1.60613120e-01 
+Total samples: 4294967296
+Total evaluated paths: 4294967296
+Non zero paths: 292678
+T = 0d:0h:0m49.1s 

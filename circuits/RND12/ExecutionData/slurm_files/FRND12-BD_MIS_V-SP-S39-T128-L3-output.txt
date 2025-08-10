@@ -1,0 +1,18 @@
+../build/x86/apps/Feynman_SP /a BD_MIS_V /p /home/psantos/Agregacao/ExperimentalData/circuits/RND12 /f RND12 /i 0 /o 16 /s 39 /t 128 /l 3 /r +0.009153 *0.022097
+Number of samples = 2^39 = 549755813888
+Number of threads = 128
+Run label: 3
+True amplitude = 9.153000e-03 + j -2.209700e-02
+Circuit path = /home/psantos/Agregacao/ExperimentalData/circuits/RND12/RND12.data
+
+myReal -> float!!!
+CState -> unsigned long long!!!
+algorithm -> BD_MIS_V
+Whoever I am , I am processing 549755813888 with 128 threads!
+< 16 | U | 0 > = 7.09535182e-03 + i -2.00740453e-02 
+var: 4.23391657e-06 + i 4.09234917e-06 
+relative var: 5.05376831e-02 + i 8.38119630e-03 
+Total samples: 549755813888
+Total evaluated paths: 8246337208320
+Non zero paths: 54357975753
+T = 0d:2h:57m48.3s 
