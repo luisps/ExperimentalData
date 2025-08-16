@@ -1,0 +1,17 @@
+../build/x86/apps/Feynman_SP /a BD_MIS_V /p /home/psantos/Agregacao/ExperimentalData/circuits/RSQ12 /f RSQ12 /i 0 /o 0 /s 34 /t 128 /l 4 /r *0.06440 *0.02667
+Number of samples = 2^34 = 17179869184
+Number of threads = 128
+Run label: 4
+True amplitude = -6.440000e-02 + j -2.667000e-02
+Circuit path = /home/psantos/Agregacao/ExperimentalData/circuits/RSQ12/RSQ12.data
+
+myReal -> float!!!
+CState -> unsigned long long!!!
+algorithm -> BD_MIS_V
+< 0 | U | 0 > = -6.39336780e-02 + i -2.67478134e-02 
+var: 2.17458435e-07 + i 6.05499739e-09 
+relative var: 5.24329771e-05 + i 8.51271216e-06 
+Total samples: 17179869184
+Total evaluated paths: 206158430208
+Non zero paths: 629141668
+T = 0d:0h:4m0.0s 
