@@ -1,0 +1,23 @@
+Number of samples = 2^22 = 4194304
+Number of threads = 64
+Run label: 1
+True amplitude = 1.000000e+00 + j 0.000000e+00
+Circuit path = /home/psantos/Agregacao/ExperimentalData/circuits/HSC256/HSC256.data
+
+myReal -> GMP multiprecision!!!
+CState -> GMP multiprecision!!!
+algorithm -> BD_MIS_V
+MPI (0) : 8 nodes ; 524288 samples/node 
+< 1023 | U | 0 > = 8.82804658e-01 + i 0.00000000e+00 
+var: 1.37347481e-02 + i 0.00000000e+00 
+relative var: 1.37347481e-02 + i 0.00000000e+00 
+Total samples: 4194304
+Total evaluated paths: 180355072
+Non zero paths: 113
+T = 103396462 us
+T = 103396.5 ms
+I have 103.396462 secs
+I have 0.000000 days, remaining 103.396462 secs
+I have 0.000000 hours, remaining 103.396462 secs
+I have 1.000000 minutes, remaining 103.396462 secs
+T = 0d:0h:1m43.4s 

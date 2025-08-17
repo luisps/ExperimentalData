@@ -1,0 +1,17 @@
+Number of samples = 2^25 = 33554432
+Number of threads = 64
+Run label: 1
+True amplitude = 1.000000e+00 + j 0.000000e+00
+Circuit path = /home/psantos/Agregacao/ExperimentalData/circuits/HSC4096/HSC4096.data
+
+myReal -> GMP multiprecision!!!
+CState -> GMP multiprecision!!!
+algorithm -> BD_MIS_V
+MPI (0) : 32 nodes ; 1048576 samples/node 
+< 1023 | U | 0 > = 9.36392033e-01 + i 0.00000000e+00 
+var: 4.04597341e-03 + i 0.00000000e+00 
+relative var: 4.04597341e-03 + i 0.00000000e+00 
+Total samples: 33554432
+Total evaluated paths: 1442840576
+Non zero paths: 959
+T = 0d:1h:0m50.0s 
